@@ -1,0 +1,27 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "barlogulursilorlepsa@yahoo.com",
+    "phone"          : "0769654140",
+    "address"        : "Drum Streiu - Lepsa 627369 Lepsa, Jud Vrancea",
+    "design"         : "Paradigm by Html5 UP",
+
+    "app_title"      : "Pensiunea Barlogul Ursilor",
+
+    "seo_title"      : "Pensiunea Barlogul Ursilor - Cazare Moldova | WebsiteMarket",
+    "seo_desc"       : "Unitate de cazare din Lepsa, singura locatie de unde se poate vedea Capul lui Decebal.",
+
+    "service"        : "https://websitemarket.ro", 
+
+    "product"        : "https://github.com/creare-site/demo-pensiunea-barlogul-ursilor", 
+    "github"         : "https://github.com/creare-site/demo-pensiunea-barlogul-ursilor",
+    "github_group"   : "https://github.com/creare-site",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/Websitemarketro/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}
