@@ -1,4 +1,4 @@
-﻿# [Pensiunea Barlogul Ursilor](https://pensiunea-barlogul-ursilor.websitemarket.ro/) - Site Prezentare
+﻿# [Pensiunea Barlogul Ursilor](https://websitemarket.ro/creare-site/pensiuni/barlogul-ursilor-lepsa/) - Site Prezentare
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
@@ -43,4 +43,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-[Pensiunea Barlogul Ursilor](https://pensiunea-barlogul-ursilor.websitemarket.ro/) un produs **WebsiteMarket**
+[Pensiunea Barlogul Ursilor](https://websitemarket.ro/creare-site/pensiuni/barlogul-ursilor-lepsa/) un produs **WebsiteMarket**
